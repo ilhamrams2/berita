@@ -149,7 +149,7 @@
   <header class="hero pt-5 mt-5">
     <div class="container">
       <img src="assets/img/presma.jpg" alt="Logo">
-      <h1 class="display-5 fw-bold">PRESMAs NEWS</h1>
+      <h1 class="display-5 fw-bold">PRESMA NEWS</h1>
       <p class="lead fst-italic">"IF BETTER IS POSSIBLE"</p>
       <p>Repost by <a href="#" class="text-warning">PPLG</a></p>
     </div>
