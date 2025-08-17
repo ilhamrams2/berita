@@ -1,30 +1,36 @@
   <footer class="main-footer">
     <strong>Copyright &copy; 2021 <a href="#">PI</a>.</strong>
     All rights reserved. | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
-    
+
     <div class="float-right d-none d-sm-inline-block">
       <b>Tugas</b> PI
     </div>
   </footer>
-</div>
-<!-- ./wrapper -->
+  </div>
+  <!-- ./wrapper -->
 
-<!-- REQUIRED SCRIPTS -->
+  <!-- REQUIRED SCRIPTS -->
 
-<!-- jQuery -->
-<script src="../assets/js/be/jquery/jquery.min.js"></script>
-<!-- Bootstrap -->
-<script src="../assets/js/be/bootstrap/js/bootstrap.bundle.min.js"></script>
-<!-- AdminLTE -->
-<script src="../assets/js/be/adminlte.js"></script>
 
-<script src="../assets/js/be/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+  <script>
+    CKEDITOR.replace('editor1');
+  </script>
 
-<!-- OPTIONAL SCRIPTS -->
-<script src="../assets/js/be/chart.js/Chart.min.js"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="../assets/js/be/demo.js"></script>
-<!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="../assets/js/be/pages/dashboard3.js"></script>
-</body>
-</html>
+  <!-- jQuery -->
+  <script src="../assets/js/be/jquery/jquery.min.js"></script>
+  <!-- Bootstrap -->
+  <script src="../assets/js/be/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- AdminLTE -->
+  <script src="../assets/js/be/adminlte.js"></script>
+
+  <script src="../assets/js/be/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+
+  <!-- OPTIONAL SCRIPTS -->
+  <script src="../assets/js/be/chart.js/Chart.min.js"></script>
+  <!-- AdminLTE for demo purposes -->
+  <script src="../assets/js/be/demo.js"></script>
+  <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+  <script src="../assets/js/be/pages/dashboard3.js"></script>
+  </body>
+
+  </html>
